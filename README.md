@@ -1,1 +1,1 @@
-![alt text] (https://m.media-amazon.com/images/M/MV5BMzAzMmNkMWYtM2QyMy00MWM4LWFhZjctMTVkNWVmN2M4NWY5XkEyXkFqcGdeQXVyMTQzMjU1NjE@._V1_.jpg)
+![alt text](https://github.com/eugensabanovskiy/git-portfolio/blob/main/%D0%A4%D0%BE%D1%82%D0%BE.jpg)
