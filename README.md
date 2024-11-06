@@ -1,7 +1,6 @@
 ## Студент (инженер по тестированию ПО)
 
-![alt text](https://github.com/eugensabanovskiy/git-portfolio/blob/main/%D0%A4%D0%BE%D1%82%D0%BE.jpg)
-
+https://github.com/eugensabanovskiy/git-portfolio/blob/main/%D0%A4%D0%BE%D1%82%D0%BE.jpg?raw=true
 ### ФИО
 Сабановский Евгений Олегович
 
